@@ -1,0 +1,31 @@
+{
+	"id": "e4a5d890-410a-42c2-b7e6-89c09bf83452",
+	"name": "Lab 7 - Environment",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://jsonplaceholder.typicode.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "postId",
+			"value": "1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "author",
+			"value": "Dam Quang Do",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "studentId",
+			"value": "23010046",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment"
+}
